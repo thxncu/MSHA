@@ -1,0 +1,20 @@
+{
+  "source_archive_name": "for_share(1).zip",
+  "source_archive_bytes": 317358937,
+  "source_archive_sha256": "9e094bb221984713f1199e600ab0ef00d88235c3434df1adb5e4caa48799fa45",
+  "required_archive_members": [
+    "raw/violations.zip",
+    "raw/inspections.zip"
+  ],
+  "observation_cutoff": "2025-12-31",
+  "index_inspection_years": [
+    2008,
+    2024
+  ],
+  "source_violation_rows": 3103998,
+  "source_inspection_rows": 1161292,
+  "global_duplicated_violation_identifiers": 51,
+  "source_data_site": "https://arlweb.msha.gov/OpenGovernmentData/OGIMSHA.asp",
+  "source_not_included": true,
+  "source_identity_note": "The enclosing source archive supplied for this study is identified exactly. A newly downloaded public snapshot is not a substitute for the identified source."
+}

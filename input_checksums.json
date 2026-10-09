@@ -1,0 +1,7 @@
+{
+  "data/schedule_records.csv.gz": "33b0517038fb729f1d5386a58dec1ae29f566981d955abe12aa1c87d7e6df143",
+  "data/policy_table.json": "f2ca6dbd7920827560984678f795ebdcd73802f11e975bb94740e2c2dcf5915a",
+  "data/inspection_records.csv.gz": "9136c1a66e556036293f161d9e596f39f2f5ba934292ba8bfe31cef42089074b",
+  "data/episode_records.csv.gz": "76e68101b87441194fd6f8af340fe9c2652ec3f5d97693b3e0b0fbeb40592234",
+  "data/first_any_inspection_detection.csv.gz": "34b53d11002aa5c3d2bd112895210130132a7a5e24a4b07e0fcd38bc97457d49"
+}

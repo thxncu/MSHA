@@ -1,0 +1,37 @@
+[
+  [
+    "Observed evidence",
+    "Proposed reporting change",
+    "Limits of the evidence"
+  ],
+  [
+    "527 of 1,201 repeats followed a nonciting inspection.",
+    "Separate first-inspection results from later records already collected.",
+    "No four-visit requirement or benefit of longer follow-up was established."
+  ],
+  [
+    "538 repeats with S&S followed rapid closure.",
+    "Keep later records even after rapid closure.",
+    "Rapid closure was not shown to cause repeats."
+  ],
+  [
+    "179 of 900 repeats with S&S followed index records without S&S.",
+    "Attach later classifications to the history, not only the index label.",
+    "The results do not establish which index group merits priority."
+  ],
+  [
+    "215 episodes ended follow-up at an outside-sequence citation.",
+    "Give other citations, missing records, and ambiguous links distinct status codes.",
+    "Those citations do not meet the primary repeat rules."
+  ],
+  [
+    "326 episodes ended follow-up at an operator change.",
+    "Keep mine history for handover but separate operating-spell results.",
+    "Prior records do not establish successor performance or liability."
+  ],
+  [
+    "Delayed shares ranged from 35.2% to 62.7% across provision groups.",
+    "Report provision-specific counts and inspections beside pooled results.",
+    "The pooled average is not a universal performance threshold."
+  ]
+]

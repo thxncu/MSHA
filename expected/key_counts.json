@@ -1,0 +1,42 @@
+{
+  "episodes": 4459,
+  "mines": 3396,
+  "followup_rows": 34889,
+  "unique_followup_inspections": 32749,
+  "has_first": 4159,
+  "horizon_4": {
+    "repeats": 1201,
+    "four_noncitations": 2306,
+    "exits": 952,
+    "delayed": 527,
+    "ss": 900,
+    "delayed_ss": 371,
+    "index_nonss_then_ss": 179
+  },
+  "first_noncitation": {
+    "n": 3485,
+    "repeat": 527,
+    "ss": 371,
+    "exits": 652
+  },
+  "exit_reasons_4": {
+    "administrative_or_no_further_E01": 356,
+    "operator_change_after_last_observation": 326,
+    "nonregular_same_rule": 215,
+    "ambiguous_followup": 46,
+    "overlapping_E01": 9
+  },
+  "fast": {
+    "episodes": 2754,
+    "repeat": 730,
+    "four_noncitations": 1449,
+    "exits": 575,
+    "delayed": 345,
+    "ss": 538
+  },
+  "horizon_8": {
+    "repeats": 1414,
+    "delayed": 740,
+    "ss": 1052
+  }
+}
